@@ -1,0 +1,11 @@
+c:\users\danuh\documents\visual studio 2015\Projects\MonyetImageResizer\MonyetImageResizer\bin\Debug\MonyetImageResizer.exe.config
+c:\users\danuh\documents\visual studio 2015\Projects\MonyetImageResizer\MonyetImageResizer\bin\Debug\MonyetImageResizer.exe
+c:\users\danuh\documents\visual studio 2015\Projects\MonyetImageResizer\MonyetImageResizer\bin\Debug\MonyetImageResizer.pdb
+c:\users\danuh\documents\visual studio 2015\Projects\MonyetImageResizer\MonyetImageResizer\bin\Debug\MonyetImageResizer.xml
+c:\users\danuh\documents\visual studio 2015\Projects\MonyetImageResizer\MonyetImageResizer\obj\Debug\MonyetImageResizer.vbprojResolveAssemblyReference.cache
+c:\users\danuh\documents\visual studio 2015\Projects\MonyetImageResizer\MonyetImageResizer\obj\Debug\MonyetImageResizer.Form1.resources
+c:\users\danuh\documents\visual studio 2015\Projects\MonyetImageResizer\MonyetImageResizer\obj\Debug\MonyetImageResizer.Resources.resources
+c:\users\danuh\documents\visual studio 2015\Projects\MonyetImageResizer\MonyetImageResizer\obj\Debug\MonyetImageResizer.vbproj.GenerateResource.Cache
+c:\users\danuh\documents\visual studio 2015\Projects\MonyetImageResizer\MonyetImageResizer\obj\Debug\MonyetImageResizer.exe
+c:\users\danuh\documents\visual studio 2015\Projects\MonyetImageResizer\MonyetImageResizer\obj\Debug\MonyetImageResizer.xml
+c:\users\danuh\documents\visual studio 2015\Projects\MonyetImageResizer\MonyetImageResizer\obj\Debug\MonyetImageResizer.pdb
